@@ -4,7 +4,7 @@ In this project, we are going to classify human actions on video. This is a smal
 
 #### Action: Pick something up.
 
-### trained model: /data/model2.h5
+### trained model: /data/model3-2.h5
 
 
 
